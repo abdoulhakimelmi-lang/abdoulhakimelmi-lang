@@ -8,35 +8,14 @@ repo_url: https://github.com/abdoulhakimelmi-lang/abdoulhakimelmi-lang
 edit_uri: edit/main/docs/
 
 theme:
-  name: material
+  name: readthedocs
   language: fr
-  logo: assets/logo.svg
-  favicon: assets/logo.svg
-  features:
-    - navigation.sections
-    - navigation.expand
-    - navigation.top
-    - toc.integrate
-    - search.highlight
-    - search.suggest
-    - content.action.edit
-    - content.code.copy
-  palette:
-    - scheme: default
-      primary: teal
-      accent: deep orange
-      toggle:
-        icon: material/weather-night
-        name: Mode sombre
-    - scheme: slate
-      primary: teal
-      accent: deep orange
-      toggle:
-        icon: material/weather-sunny
-        name: Mode clair
-  font:
-    text: Inter
-    code: JetBrains Mono
+  navigation_depth: 4
+  collapse_navigation: false
+  titles_only: false
+  sticky_navigation: true
+  prev_next_buttons_location: bottom
+  highlightjs: true
 
 nav:
   - Accueil: index.md
@@ -71,27 +50,9 @@ markdown_extensions:
   - tables
   - toc:
       permalink: true
-  - pymdownx.details
-  - pymdownx.superfences
-  - pymdownx.highlight:
-      anchor_linenums: true
-  - pymdownx.inlinehilite
-  - pymdownx.snippets
-  - pymdownx.tabbed:
-      alternate_style: true
-  - pymdownx.emoji:
-      emoji_index: !!python/name:material.extensions.emoji.twemoji
-      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 plugins:
   - search
-
-extra:
-  social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/abdoulhakimelmi-lang
-    - icon: fontawesome/solid/envelope
-      link: mailto:ing.abdoulhakim.elmi@gmail.com
 
 extra_css:
   - stylesheets/extra.css
