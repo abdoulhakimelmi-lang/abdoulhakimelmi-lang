@@ -1,37 +1,32 @@
-# Plateforme professionnelle en geomatique
+# Bienvenue sur la documentation professionnelle en Geomatique
 
-## Abdoulhakim ELMI MAHAMOUD
+![Expertise geomatique](assets/geomatique-banner.svg){: .geomatique-banner }
 
-Bienvenue sur mon espace GitHub professionnel. Ce site rassemble mon CV, mes experiences, mes competences, mes projets et ma documentation technique autour de la geomatique, du Web SIG et de la cartographie.
-
-<div class="hero-actions">
-  <a class="primary-button" href="cv/">Voir mon CV</a>
-  <a class="secondary-button" href="projets/">Voir mes projets</a>
-</div>
-
-## Auteur
+## Auteur:
 
 **Abdoulhakim ELMI MAHAMOUD**  
 Geomaticien - Web SIG - Cartographie - Bases de donnees spatiales  
-Contact : [ing.abdoulhakim.elmi@gmail.com](mailto:ing.abdoulhakim.elmi@gmail.com)
+Mail : [ing.abdoulhakim.elmi@gmail.com](mailto:ing.abdoulhakim.elmi@gmail.com)
+
+Site developpe pour organiser mon profil professionnel autour de la geomatique. Il rassemble mon CV, mes experiences, mes competences, mes projets et les ressources techniques que je construis progressivement.
 
 ## Objectifs du site
 
-- Centraliser mon profil professionnel, mon CV et mes experiences.
-- Organiser mes competences en geomatique, cartographie et developpement Web SIG.
-- Presenter mes projets GitHub de maniere claire et progressive.
-- Garder une documentation technique reutilisable pour mes travaux.
-- Montrer mon evolution professionnelle dans un format propre et accessible.
+- Presenter mon CV dans une page claire et professionnelle.
+- Stocker mes experiences, stages et missions realisees.
+- Classer mes competences par domaine : SIG, Web SIG, bases de donnees, Python, FME et teledetection.
+- Mettre en valeur mes projets GitHub et mes productions cartographiques.
+- Garder une documentation technique propre, lisible et facile a enrichir.
 
-## Structure du site
+## Quelques contenus disponibles
 
-Le site est organise comme une documentation professionnelle :
-
-- **CV** : profil, formation, certifications et parcours.
-- **Experiences** : stages, missions et competences mobilisees.
-- **Competences** : SIG, Web SIG, bases spatiales, Python, FME et teledetection.
-- **Projets** : projets GitHub, cartes interactives, bases de donnees et documentation.
-- **Contact** : liens utiles pour me joindre.
+- **CV professionnel** : profil, formation, certifications et parcours.
+- **Experiences** : DIR Est, ARULoS, projets universitaires et travaux pratiques.
+- **Competences SIG** : QGIS, ArcGIS Pro, ArcGIS Enterprise, cartographie et analyse spatiale.
+- **Bases de donnees geographiques** : PostgreSQL, PostGIS, modelisation et requetes spatiales.
+- **Web SIG** : Leaflet, HTML, CSS, JavaScript, GeoServer et publication de donnees.
+- **Automatisation** : Python, FME, traitements de donnees et workflows.
+- **Projets** : cartes interactives, documentation technique et outils GitHub.
 
 ## Positionnement professionnel
 
@@ -57,14 +52,3 @@ Je travaille a l'intersection de trois domaines :
   <img alt="FME" src="https://img.shields.io/badge/FME-E98300?style=for-the-badge&logoColor=white">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
-
-## Contenus a developper
-
-Ce GitHub servira progressivement a stocker :
-
-- applications Web SIG ;
-- cartes interactives ;
-- dashboards cartographiques ;
-- bases de donnees spatiales ;
-- scripts Python et traitements de donnees ;
-- documentation technique de projets.
