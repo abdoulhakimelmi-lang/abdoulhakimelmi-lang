@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 420" role="img" aria-labelledby="title desc">
+  <title id="title">Expertise geomatique</title>
+  <desc id="desc">Banniere presentant les principaux outils de geomatique, SIG, base de donnees et webmapping.</desc>
+  <rect width="1500" height="420" fill="#ffffff"/>
+  <g transform="translate(0 12)">
+    <rect x="20" y="16" width="660" height="76" rx="0" fill="#302d2d"/>
+    <text x="36" y="72" fill="#f0b63d" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="300">Expertise geomatique</text>
+    <text x="36" y="132" fill="#333333" font-family="Arial, Helvetica, sans-serif" font-size="32">QGIS | ArcGIS | PostGIS | Webmapping | FME | Python</text>
+  </g>
+  <g transform="translate(1030 28)">
+    <rect x="0" y="0" width="92" height="92" rx="18" fill="#f0b63d"/>
+    <circle cx="46" cy="46" r="29" fill="#ffffff" opacity="0.92"/>
+    <path d="M32 45c12-18 32-18 45-5-10-4-19-3-27 3-8 5-13 13-18 22-5-7-5-14 0-20z" fill="#f0b63d"/>
+    <text x="112" y="38" fill="#333333" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">L'information geographique</text>
+    <text x="112" y="74" fill="#333333" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">au service des decisions.</text>
+  </g>
+  <g transform="translate(22 180)">
+    <circle cx="95" cy="95" r="86" fill="#8dbb3d"/>
+    <text x="38" y="124" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="86" font-weight="700">Q</text>
+    <polygon points="104,120 139,156 126,169 91,132" fill="#f39832"/>
+    <polygon points="128,152 158,176 136,188 113,165" fill="#c7d86d"/>
+  </g>
+  <g transform="translate(232 180)">
+    <circle cx="95" cy="95" r="86" fill="#eaf5ff" stroke="#222222" stroke-width="6"/>
+    <path d="M22 92c44-52 106-63 145-15" fill="none" stroke="#2c73b9" stroke-width="12"/>
+    <path d="M19 110c54 38 107 48 153 13" fill="none" stroke="#6eb344" stroke-width="14"/>
+    <path d="M95 12c-32 50-35 110-7 168" fill="none" stroke="#222222" stroke-width="6"/>
+    <path d="M40 28c56 20 89 66 103 137" fill="none" stroke="#222222" stroke-width="6"/>
+    <path d="M21 82h149" stroke="#222222" stroke-width="6"/>
+    <path d="M31 135h128" stroke="#222222" stroke-width="6"/>
+  </g>
+  <g transform="translate(442 180)">
+    <circle cx="95" cy="95" r="86" fill="#3f74a3"/>
+    <text x="36" y="120" fill="#ffffff" font-family="Georgia, serif" font-size="98" font-weight="700">Pg</text>
+  </g>
+  <g transform="translate(652 180)">
+    <rect x="18" y="18" width="154" height="154" rx="28" fill="#83d3d7" transform="rotate(45 95 95)"/>
+    <path d="M50 82c38-44 75-38 98 7-30-7-56-1-78 20-9-7-16-15-20-27z" fill="#b8d96d"/>
+    <path d="M86 36c26 17 46 43 60 78" fill="none" stroke="#4592c4" stroke-width="8"/>
+    <path d="M46 131c34-15 69-13 104 8" fill="none" stroke="#4592c4" stroke-width="8"/>
+  </g>
+  <g transform="translate(862 180)">
+    <circle cx="95" cy="95" r="86" fill="#99c63b"/>
+    <text x="38" y="86" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="78" font-weight="700">Li</text>
+    <text x="35" y="132" fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700">map</text>
+  </g>
+  <g transform="translate(1070 182)">
+    <rect x="30" y="24" width="150" height="105" fill="#f3a83d"/>
+    <text x="78" y="101" fill="#222222" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="700">Ai</text>
+    <path d="M8 150c62-36 97-78 125-9 18 45 55 28 70 52-54 17-137 17-195-43z" fill="#111111"/>
+    <path d="M76 146c30 12 56 12 83 0" stroke="#ffffff" stroke-width="5" fill="none"/>
+  </g>
+  <g transform="translate(1300 180)">
+    <polygon points="95,16 171,94 95,172 19,94" fill="#ffffff" stroke="#777777" stroke-width="4"/>
+    <path d="M82 137c5-44 3-76-10-99 23 32 28 65 24 101" fill="#3f8d3c"/>
+    <path d="M94 136c8-38 23-67 48-89-17 32-22 63-22 92" fill="#2d7b31"/>
+    <path d="M76 127c-16-23-28-47-34-70 20 24 35 47 46 73" fill="#65aa49"/>
+    <text x="28" y="220" fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="35" font-weight="700">GRASS</text>
+    <text x="154" y="220" fill="#777777" font-family="Arial, Helvetica, sans-serif" font-size="28">GIS</text>
+  </g>
+</svg>
