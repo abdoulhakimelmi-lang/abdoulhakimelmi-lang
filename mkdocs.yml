@@ -13,8 +13,8 @@ theme:
   logo: assets/logo.svg
   favicon: assets/logo.svg
   features:
-    - navigation.tabs
     - navigation.sections
+    - navigation.expand
     - navigation.top
     - toc.integrate
     - search.highlight
@@ -40,10 +40,28 @@ theme:
 
 nav:
   - Accueil: index.md
-  - CV: cv.md
-  - Competences: competences.md
-  - Experiences: experiences.md
-  - Projets: projets.md
+  - CV:
+      - Vue generale: cv/index.md
+      - Formation: cv/formation.md
+      - Certifications: cv/certifications.md
+  - Experiences:
+      - Vue generale: experiences/index.md
+      - DIR Est - Nancy: experiences/dir-est.md
+      - ARULoS - Djibouti: experiences/arulos.md
+      - Projet tuteure: experiences/projet-tuteure.md
+  - Competences:
+      - Vue generale: competences/index.md
+      - SIG et cartographie: competences/sig-cartographie.md
+      - Bases de donnees spatiales: competences/bases-donnees-spatiales.md
+      - Web SIG: competences/web-sig.md
+      - Python et automatisation: competences/python-automatisation.md
+      - Teledetection et raster: competences/teledetection-raster.md
+      - FME et interoperabilite: competences/fme-interoperabilite.md
+  - Projets:
+      - Vue generale: projets/index.md
+      - Web SIG et cartographie: projets/web-sig-cartographie.md
+      - Bases de donnees: projets/bases-donnees.md
+      - Documentation technique: projets/documentation-technique.md
   - Contact: contact.md
 
 markdown_extensions:
