@@ -1,11 +1,11 @@
-site_name: Abdoulhakim ELMI MAHAMOUD
+site_name: Plateforme de documentation en Geomatique
 site_description: Portfolio professionnel en geomatique, Web SIG, cartographie et developpement web
 site_author: Abdoulhakim ELMI MAHAMOUD
 site_url: https://abdoulhakimelmi-lang.github.io/abdoulhakimelmi-lang/
 
 repo_name: abdoulhakimelmi-lang/abdoulhakimelmi-lang
 repo_url: https://github.com/abdoulhakimelmi-lang/abdoulhakimelmi-lang
-edit_uri: edit/main/docs/
+edit_uri: ""
 
 theme:
   name: readthedocs
