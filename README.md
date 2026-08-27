@@ -41,9 +41,9 @@ Developpement d'applications Web SIG, de dashboards et d'outils cartographiques 
 
 Mise en place de cartes interactives, structuration de donnees SIG et creation de bases cartographiques pour des projets urbains.
 
-## Site professionnel MkDocs
+## Plateforme de documentation professionnelle
 
-Ce depot contient aussi une structure MkDocs inspiree des plateformes de documentation en geomatique. Elle permet d'organiser mon profil en plusieurs rubriques :
+Ce depot contient une plateforme MkDocs au style documentation technique, avec une navigation a gauche et des pages organisees par rubrique. Elle me sert a presenter mon CV, mes experiences, mes competences et mes projets en geomatique.
 
 - Accueil
 - CV
