@@ -1,0 +1,56 @@
+:root {
+  --hakim-teal: #0f766e;
+  --hakim-orange: #f97316;
+  --hakim-ink: #12201f;
+}
+
+.md-typeset h1 {
+  color: var(--hakim-teal);
+  font-weight: 800;
+}
+
+.md-typeset h2 {
+  font-weight: 700;
+}
+
+.hero-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin: 24px 0 28px;
+}
+
+.primary-button,
+.secondary-button {
+  border-radius: 6px;
+  display: inline-block;
+  font-weight: 700;
+  padding: 10px 16px;
+  text-decoration: none;
+}
+
+.primary-button {
+  background: var(--hakim-teal);
+  color: #ffffff !important;
+}
+
+.secondary-button {
+  border: 1px solid var(--hakim-teal);
+  color: var(--hakim-teal) !important;
+}
+
+.tool-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 16px 0 24px;
+}
+
+.tool-grid img {
+  height: 30px;
+}
+
+.md-typeset table:not([class]) {
+  border-radius: 6px;
+  overflow: hidden;
+}
