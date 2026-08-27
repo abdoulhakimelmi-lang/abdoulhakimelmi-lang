@@ -1,15 +1,39 @@
-# Abdoulhakim ELMI MAHAMOUD
+# Plateforme professionnelle en geomatique
 
-## Geomaticien specialise en Web SIG, cartographie et bases de donnees spatiales
+## Abdoulhakim ELMI MAHAMOUD
 
-Je construis des solutions pour organiser, analyser et valoriser les donnees geographiques. Mon parcours combine la geomatique, le webmapping, les bases de donnees spatiales et le developpement d'applications cartographiques.
+Bienvenue sur mon espace GitHub professionnel. Ce site rassemble mon CV, mes experiences, mes competences, mes projets et ma documentation technique autour de la geomatique, du Web SIG et de la cartographie.
 
 <div class="hero-actions">
   <a class="primary-button" href="cv/">Voir mon CV</a>
   <a class="secondary-button" href="projets/">Voir mes projets</a>
 </div>
 
-## Mon positionnement
+## Auteur
+
+**Abdoulhakim ELMI MAHAMOUD**  
+Geomaticien - Web SIG - Cartographie - Bases de donnees spatiales  
+Contact : [ing.abdoulhakim.elmi@gmail.com](mailto:ing.abdoulhakim.elmi@gmail.com)
+
+## Objectifs du site
+
+- Centraliser mon profil professionnel, mon CV et mes experiences.
+- Organiser mes competences en geomatique, cartographie et developpement Web SIG.
+- Presenter mes projets GitHub de maniere claire et progressive.
+- Garder une documentation technique reutilisable pour mes travaux.
+- Montrer mon evolution professionnelle dans un format propre et accessible.
+
+## Structure du site
+
+Le site est organise comme une documentation professionnelle :
+
+- **CV** : profil, formation, certifications et parcours.
+- **Experiences** : stages, missions et competences mobilisees.
+- **Competences** : SIG, Web SIG, bases spatiales, Python, FME et teledetection.
+- **Projets** : projets GitHub, cartes interactives, bases de donnees et documentation.
+- **Contact** : liens utiles pour me joindre.
+
+## Positionnement professionnel
 
 Je travaille a l'intersection de trois domaines :
 
@@ -34,9 +58,9 @@ Je travaille a l'intersection de trois domaines :
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
-## Ce que je veux montrer sur GitHub
+## Contenus a developper
 
-Mon GitHub servira a organiser mes competences, mes experiences et mes projets autour de la geomatique :
+Ce GitHub servira progressivement a stocker :
 
 - applications Web SIG ;
 - cartes interactives ;
@@ -44,7 +68,3 @@ Mon GitHub servira a organiser mes competences, mes experiences et mes projets a
 - bases de donnees spatiales ;
 - scripts Python et traitements de donnees ;
 - documentation technique de projets.
-
-## Objectif professionnel
-
-Contribuer a des projets d'amenagement du territoire, de gestion d'infrastructures, d'observation spatiale et de valorisation des donnees geographiques.
