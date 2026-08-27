@@ -41,16 +41,18 @@ Developpement d'applications Web SIG, de dashboards et d'outils cartographiques 
 
 Mise en place de cartes interactives, structuration de donnees SIG et creation de bases cartographiques pour des projets urbains.
 
-## Portfolio MkDocs
+## Site professionnel MkDocs
 
-Ce depot contient aussi une structure MkDocs pour organiser mon profil professionnel en plusieurs pages :
+Ce depot contient aussi une structure MkDocs inspiree des plateformes de documentation en geomatique. Elle permet d'organiser mon profil en plusieurs rubriques :
 
 - Accueil
 - CV
-- Competences
 - Experiences
+- Competences
 - Projets
 - Contact
+
+Site public : [abdoulhakimelmi-lang.github.io/abdoulhakimelmi-lang](https://abdoulhakimelmi-lang.github.io/abdoulhakimelmi-lang/)
 
 ## Contact
 
