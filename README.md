@@ -2,107 +2,60 @@
 
 ## Geomaticien | Web SIG | Cartographie | Bases de donnees spatiales
 
-Je suis geomaticien, diplome d'un Master 2 en Geomatique a l'Universite d'Orleans.  
-Je m'interesse a la gestion de donnees geographiques, au developpement d'applications Web SIG, au webmapping, aux tableaux de bord et aux outils cartographiques pour l'aide a la decision.
+Bienvenue sur mon profil GitHub. J'utilise cet espace pour organiser mes projets, mes competences et mes experiences autour de la geomatique, du webmapping et du developpement Web SIG.
 
-Mon objectif est de construire des solutions simples, utiles et bien organisees pour visualiser, analyser et partager les donnees spatiales.
+<p>
+  <img alt="QGIS" src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white">
+  <img alt="ArcGIS" src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge&logo=arcgis&logoColor=white">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img alt="PostGIS" src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white">
+  <img alt="Leaflet" src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white">
+  <img alt="GeoServer" src="https://img.shields.io/badge/GeoServer-00A3E0?style=for-the-badge&logo=geoserver&logoColor=white">
+</p>
 
-## Domaines de competence
+## Profil
 
-- Systemes d'Information Geographique (SIG)
+Je suis geomaticien, diplome d'un Master 2 en Geomatique a l'Universite d'Orleans. Je m'interesse a la gestion de donnees geographiques, aux bases de donnees spatiales, aux applications Web SIG, aux tableaux de bord et aux outils cartographiques d'aide a la decision.
+
+## Competences principales
+
+- Systemes d'Information Geographique
 - Webmapping et cartographie interactive
-- Bases de donnees spatiales
+- Bases de donnees spatiales avec PostgreSQL/PostGIS
 - Analyse geospatiale
-- Tableaux de bord cartographiques
 - Traitement d'images satellitaires
-- Gestion et documentation de projets
-
-## Technologies et outils
-
-### SIG et cartographie
-
-- QGIS
-- ArcGIS Pro
-- ArcGIS Enterprise
-- Experience Builder
-- ArcGIS Dashboards
-- GeoServer
-- MapServer
-- Mapbender
-- Leaflet
-
-### Bases de donnees
-
-- PostgreSQL
-- PostGIS
-- SQL
-
-### Developpement
-
-- HTML
-- CSS
-- JavaScript
-- Python
-
-### Donnees et traitement
-
-- FME
-- ENVI
-- SNAP
-- GeoDa
-- R
-- Microsoft Office
+- Developpement web avec HTML, CSS, JavaScript et Python
+- Documentation technique et organisation de projets
 
 ## Experiences
 
-### Stage Master 2 - DIR Est, Nancy
+### DIR Est - Nancy
 
 Developpement d'applications Web SIG, de dashboards et d'outils cartographiques pour faciliter la consultation et l'exploitation des donnees par les agents du service.
 
-### Stage Master 1 - Agence de Rehabilitation Urbaine et du Logement Social, Djibouti
+### Agence de Rehabilitation Urbaine et du Logement Social - Djibouti
 
-Mise en place de cartes interactives et d'un Web SIG pour le suivi des habitations, des structures impactees et des personnes affectees dans le cadre d'un projet de reinstallation urbaine.
+Mise en place de cartes interactives, structuration de donnees SIG et creation de bases cartographiques pour des projets urbains.
 
-### Stage de fin d'etudes - Agence de Rehabilitation Urbaine et du Logement Social, Djibouti
+## Portfolio MkDocs
 
-Creation d'une base de donnees cartographique dans le cadre d'un projet de restructuration et d'alignement urbain.
+Ce depot contient aussi une structure MkDocs pour organiser mon profil professionnel en plusieurs pages :
 
-## Formation
+- Accueil
+- CV
+- Competences
+- Experiences
+- Projets
+- Contact
 
-- Master 2 en Geomatique - Universite d'Orleans
-- Master 1 en Geomatique - Universite d'Orleans
-- Titre professionnel Developpeur Web et Web Mobile - Etucatel
-- Licence en Systemes d'Information Geographique - Universite de Djibouti
-- BTS en Systemes d'Information Geographique - Universite de Djibouti
-
-## Certifications et formations complementaires
-
-- FME Essentials
-- Web-Mapping et cartographie dynamique
-- Python - Frontier Tech Leaders Djibouti
-- Systeme de Gestion de Base de Donnees en SIG
-- SIG Raster et traitement des donnees LiDAR 3D
-- Introduction a Python et exemples d'applications
-
-## Projets GitHub a mettre en avant
-
-- Portfolio HTML/CSS/JavaScript
-- Applications Web SIG
-- Cartes interactives avec Leaflet
-- Dashboards cartographiques
-- Gestion de documents PDF et donnees SIG
-- Projets d'apprentissage Git et GitHub
-
-## Langues
-
-- Francais : courant
-- Anglais : intermediaire
-- Somali : langue maternelle
-
-## Me contacter
+## Contact
 
 - GitHub : [@abdoulhakimelmi-lang](https://github.com/abdoulhakimelmi-lang)
-- Email : ing.abdoulhakim.elmi@gmail.com
+- Email : [ing.abdoulhakim.elmi@gmail.com](mailto:ing.abdoulhakim.elmi@gmail.com)
 
 ---
 
